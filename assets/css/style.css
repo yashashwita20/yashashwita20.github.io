@@ -58,11 +58,11 @@
 }
 
 .twitter {
-  color: #0077b5;
+  color: #1DA1F2;
 }
 
 .instagram {
-  color: #b51800;
+  color: #C13584;
 }
 
 .icon-btn:hover {
@@ -79,11 +79,11 @@
 }
 
 .twitter:hover {
-  background-color: #0077b5;
+  background-color: #1DA1F2;
 }
 
 .instagram:hover {
-  background-color: #b51800;
+  background-color: #C13584;
 }
 
 /* Buttons - Read Me, Contact Us */
@@ -327,7 +327,7 @@ h3 {
 } */
 
 #about.section {
-  background: #a7ffeb repeat;
+  background: #c1cac8 repeat;
   position: relative;
 }
 
