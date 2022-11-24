@@ -2,7 +2,6 @@
   position: relative;
   max-width:130px;
   max-height:130px;
-
   overflow: hidden;
   /* display: inline-block; */
   
@@ -327,12 +326,12 @@ h3 {
 } */
 
 #about.section {
-  background: #c1cac8 repeat;
+  background: #f3f6f5 repeat;
   position: relative;
 }
 
 #about.section .container {
-  color: white;
+  color: black;
   font-weight: 200;
   left: 0;
   position: absolute;
@@ -566,7 +565,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #008073 !important;
+  background-color: #c1cac8 !important;
 }
 
 /* .teal {
@@ -650,7 +649,7 @@ small {
     position: relative;
     top: 64px;
   }
-  section#intro {
+  section#about {
     margin-bottom: -64px;
   }
   .card .role {
@@ -666,7 +665,7 @@ small {
     line-height: 200%;
     margin: 30px 0 0;
   }
-  #intro.section .container *:not(span) {
+  #about.section .container *:not(span) {
     padding: 0;
   }
   .card .card-content .card-title {
@@ -695,7 +694,7 @@ small {
     text-align: center;
     margin: 0 auto;
   }
-  #intro.section {
+  #about.section {
     background-position-x: 30%;
   }
 }
